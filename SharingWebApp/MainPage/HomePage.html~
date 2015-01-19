@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>My Home Page</title>
+<link type="text/css" href="../css/lables.css" rel="stylesheet"/>
+<link href="../bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../js/functions.js" ></script> 
+<script type="text/javascript" src="../ajs/angular.min.js"></script>
+<link href="../css/lables.css" />
+</head>
+<body class="body">
+<div class="actual-page">
+		<header class="header">
+		<span class="header"><img src="../img/share-life_logo2.gif"/></span>
+		  <h1 class="page-header heading">Something Should be written 	</h1>
+          <a style="float=right; margin-left:500px;" href="../MyAccountPage/MyAccount.html">My Account</a>
+		</header>
+  <section class="section">My Section1</section>
+  <footer class="footer">My Footer</footer>
+</div>
+</body>
+</html>

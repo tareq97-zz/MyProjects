@@ -1,0 +1,65 @@
+body{
+	background-color: none;
+}
+
+.full-page{
+	width: 1500px;	
+	}
+	
+.actual-page{
+	width: 1186px;
+	}
+	
+header{
+	width:1180px;
+	display:	table-header-group;
+	height: 222px;	
+	}
+
+.header-left{
+	width: 740px;
+	height: 222px;
+	}
+
+.header-right{
+	width: 400px;
+	height: 222px;
+	position: absolute;
+	top: 8px;
+	left : 748px;	
+	}
+	
+.logo-image{
+float: left; 	
+	}
+
+.my-account{
+float: left;
+color: brown;
+	}
+
+.submit{
+float: right;	
+color: brown;
+	}
+	
+.list-in-line{
+position: absolute;
+display: inline;		
+top: 158px;
+		}
+		
+.float-in-line{
+	float: left;		
+		}
+	
+.heading{
+text-align: center;
+text-indent: 10;
+font-family: Zapf-Chancery;
+float: right;
+margin: 146px 0 0 0;
+font-size:xx-large;
+font-weight: 600;
+	}
+	
