@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+
+<style type="text/css">
+.noname1 {
+}
+.main-div{
+		  width:700px;
+		  height:500px;
+		  background-color:aqua;
+		  margin: 0 auto;
+}
+
+.header-div{
+		  width:700px;
+		  height: 100px;
+		  background-color:red;
+		  margin: inherit;
+}
+
+.footer-div{
+		  width:700px;
+		  height: 100px;
+		  background-color:orange;
+		  margin: 0 0;
+}
+
+.section-div{
+height: 300px;
+width: 700px;
+background-color: silver;
+}
+
+.header1{
+		 width: 150px;
+	   	 height: 100px;
+		 float: left;
+		 margin: 0;
+}
+
+.header2{
+		 width: 250px;
+	   	 height: 100px;
+		 float: left;
+		 margin: 0;
+		 background-color: violet;
+}
+
+.header2-1{
+		color:White; 
+		margin:inherit;
+		text-align:center; 
+		margin-top: 35px;   
+}
+
+.header4{
+		 width: 300px;
+	   	 height: 100px;
+		 float: left;
+		 margin: 0;
+		 background-color: green;
+}
+
+.header4-1{
+		   margin: inherit;
+		   color: black;
+}
+
+.header4-2{
+    	   font-size:20px;
+		   list-style-type: none;
+		   color:black;
+		   text-align:center;
+		   display:block;
+		   text-decoration:none;
+}
+
+.header4-3{
+color: black;
+}
+
+.header4-4{
+color:brown;
+}
+
+</style>
+
+	<meta charset="utf-8">
+	<title>My Trials</title>
+</head>
+
+<body>
+<div class="main-div">
+	 <div class="header-div">
+	 	  <div class="header1"><img src="share-life_logo2.gif"></img></div>
+		  <div class="header2"><h3 class="header2-1">Welcome</h3></div>
+		  <div class="header3">
+
+	      </div>
+		  <div class="header4">
+		  	   <ul class="header4-2">
+			   <li><a href="#">
+			   	  <span class="header4-3">My Account</span>
+			   </a></li>
+			   <li><a href="#">
+			   	  <span class="header4-4">Submit Ad</span>
+			   </a></li>
+			   </ul>		  	   
+		  </div>
+	 </div>
+	 <div class="section-div"></div>
+	 <div class="footer-div">Copyright</div>
+</div>
+</body>
+</html>
