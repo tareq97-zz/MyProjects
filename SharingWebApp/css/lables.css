@@ -15,6 +15,57 @@
 	float:right;
 	margin: 0 200px 0 0;	
 }
+
+.header1 {
+    background-color:aliceblue;
+    float:left;
+    width:287px;
+    height: auto;
+}
+
+.header2 {
+    background-color: AppWorkspace;
+    width: 513px;
+    height: 191px;
+    float: left;
+    text-align:center;
+}
+
+.header2-1 {
+    text-align:left;
+    margin:inherit;
+    margin-top: 80px;
+}
+
+.header2-2 {
+        font-weight:700;
+}
+
+.header3 {
+    background-color: AppWorkspace;
+    float: left;
+    width: 150px;
+    height: 191px;
+}
+
+.header3-1 {
+    margin: 80px 7px 2px 4px;
+    list-style-type:none; 
+}
+
+.header3-2 {
+    display:block;
+}
+
+.header4 {
+    background-color: chocolate;
+    float: left;
+    width: 150px;
+    height: 191px;
+}
+
+.header4-1 {
+}
 	
 .heading{
 	/*float:right;
